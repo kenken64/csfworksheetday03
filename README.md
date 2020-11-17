@@ -1,3 +1,5 @@
+## Question 1
+
 Angular supports 2 types of form; template driven and reactive forms. Hint:
 Google ‘Angular template driven reactive’
 
@@ -25,7 +27,7 @@ Reactive forms seem great for example for enterprise applications with lots of c
 
 For Simplicity then template reference form
 
-Question 2
+## Question 2
 
 An Angular form can be submitted with ngSubmit. But ngSubmit is only
 useful if there is a single submit button in the form.
@@ -33,9 +35,13 @@ How do you handle multiple submit buttons in a form?
 
 Reactive or 2 way bind then use event binding (click) rather than type submit
 
-Question 3
+## Question 3
 
 If an Angular form is ‘not working’ viz. not responding to submission. What do
 you need to check in order to correct this error?
 
 Inspect check for errors. Did you remember to import the module into the @ngmodule
+
+## Question 4
+
+Solution shown in the code.
